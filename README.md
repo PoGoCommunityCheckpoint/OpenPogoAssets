@@ -1,3 +1,5 @@
+This repo has recently been transfered over to us by Jay Turner! We thank Jay for his amazing work with this project, and hope our attempt to revive it makes you proud! This Repo isn't top on our priority list just yet, but in the coming months expect a revamp and possible integration with our other community assets repo!
+
 # OpenPogoAssets
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [![Maintenance](https://img.shields.io/static/v1?label=Maintained?&message=no&color=critical&style=flat)](#)
